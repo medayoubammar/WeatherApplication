@@ -1,0 +1,9 @@
+.containerWeather{
+    margin-top: 60;
+    padding: 15
+}
+.sectionWeather{
+    height: 100%;
+    padding-top: 5 ;
+    background-color: rgba(5,4,2,0.1)  !important;
+}

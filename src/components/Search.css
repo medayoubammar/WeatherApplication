@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700,900');
+
+
+
+.search__container {
+    padding-top: 64px;
+    width: 400px;
+    margin: 0 auto;
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+    }
+
+    
+.search__input {
+        width: 100%;
+        padding: 12px 24px;
+        background-color: transparent;
+        font-size: 30px;
+        line-height: 18px;
+        color: #000000;
+        background-color: rgba(215, 215, 215, 0.329);
+        border-radius: 50px;
+        border: 1px solid #000000;
+   
+    
+}
+        
